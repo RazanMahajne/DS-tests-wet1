@@ -1,0 +1,5 @@
+addTable 7 3
+joinTables 7 -7
+joinTables -7 7
+joinTables 7 0
+joinTables 0 7

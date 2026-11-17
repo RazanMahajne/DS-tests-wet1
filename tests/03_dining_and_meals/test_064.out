@@ -1,0 +1,18 @@
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+joinFriend: FAILURE
+enterDiningRoom: SUCCESS
+joinFriend: FAILURE
+joinFriend: FAILURE
+enterDiningRoom: SUCCESS
+joinFriend: FAILURE
+joinFriend: SUCCESS, 10
+checkIn: SUCCESS
+joinFriend: FAILURE
+leaveDiningRoom: SUCCESS
+joinFriend: FAILURE
+reheatFood: SUCCESS
+joinFriend: SUCCESS, 10

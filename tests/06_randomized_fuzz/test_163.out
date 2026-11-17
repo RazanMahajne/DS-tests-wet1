@@ -1,0 +1,130 @@
+joinTables: INVALID_INPUT
+leaveDiningRoom: INVALID_INPUT
+addTable: SUCCESS
+joinFriend: FAILURE
+joinTables: INVALID_INPUT
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 2
+enterDiningRoom: INVALID_INPUT
+cleanNextRoom: SUCCESS, 2
+enterDiningRoom: FAILURE
+checkIn: SUCCESS
+addTable: INVALID_INPUT
+cleanNextRoom: SUCCESS, 6
+checkOut: FAILURE
+checkIn: FAILURE
+enterDiningRoom: FAILURE
+checkOut: FAILURE
+enterDiningRoom: FAILURE
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+addTable: INVALID_INPUT
+cleanNextRoom: SUCCESS, 2
+enterDiningRoom: FAILURE
+removeTable: FAILURE
+cleanNextRoom: SUCCESS, 6
+removeTable: SUCCESS
+joinTables: FAILURE
+cleanNextRoom: SUCCESS, 2
+reheatFood: SUCCESS
+addTable: SUCCESS
+addTable: INVALID_INPUT
+joinTables: INVALID_INPUT
+checkIn: SUCCESS
+checkIn: FAILURE
+checkOut: FAILURE
+checkIn: SUCCESS
+joinFriend: FAILURE
+joinTables: INVALID_INPUT
+enterDiningRoom: FAILURE
+leaveDiningRoom: INVALID_INPUT
+cleanNextRoom: SUCCESS, 3
+removeTable: FAILURE
+checkIn: FAILURE
+checkOut: FAILURE
+checkOut: SUCCESS
+cleanNextRoom: SUCCESS, 6
+leaveDiningRoom: INVALID_INPUT
+joinFriend: FAILURE
+cleanNextRoom: SUCCESS, 10
+joinTables: FAILURE
+joinTables: INVALID_INPUT
+joinFriend: FAILURE
+cleanNextRoom: SUCCESS, 2
+joinTables: INVALID_INPUT
+joinTables: FAILURE
+leaveDiningRoom: FAILURE
+addTable: INVALID_INPUT
+checkIn: FAILURE
+addTable: INVALID_INPUT
+enterDiningRoom: FAILURE
+joinFriend: INVALID_INPUT
+checkIn: SUCCESS
+joinFriend: FAILURE
+addTable: SUCCESS
+checkIn: SUCCESS
+enterDiningRoom: INVALID_INPUT
+leaveDiningRoom: FAILURE
+checkOut: FAILURE
+enterDiningRoom: FAILURE
+addTable: SUCCESS
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+checkOut: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 5
+joinFriend: INVALID_INPUT
+addTable: INVALID_INPUT
+removeTable: INVALID_INPUT
+enterDiningRoom: SUCCESS
+cleanNextRoom: SUCCESS, 6
+reheatFood: SUCCESS
+leaveDiningRoom: INVALID_INPUT
+addTable: SUCCESS
+enterDiningRoom: FAILURE
+reheatFood: SUCCESS
+enterDiningRoom: SUCCESS
+addTable: SUCCESS
+leaveDiningRoom: FAILURE
+addTable: INVALID_INPUT
+enterDiningRoom: FAILURE
+cleanNextRoom: SUCCESS, 10
+joinFriend: FAILURE
+checkOut: FAILURE
+addTable: FAILURE
+joinTables: INVALID_INPUT
+joinFriend: INVALID_INPUT
+leaveDiningRoom: FAILURE
+checkOut: SUCCESS
+joinFriend: INVALID_INPUT
+leaveDiningRoom: FAILURE
+joinFriend: INVALID_INPUT
+enterDiningRoom: SUCCESS
+addTable: INVALID_INPUT
+checkIn: SUCCESS
+checkIn: FAILURE
+joinTables: SUCCESS
+cleanNextRoom: SUCCESS, 14
+checkOut: SUCCESS
+leaveDiningRoom: FAILURE
+enterDiningRoom: INVALID_INPUT
+addTable: INVALID_INPUT
+checkOut: FAILURE
+checkOut: FAILURE
+enterDiningRoom: INVALID_INPUT
+enterDiningRoom: FAILURE
+leaveDiningRoom: INVALID_INPUT
+leaveDiningRoom: FAILURE
+checkOut: FAILURE
+checkOut: FAILURE
+addTable: SUCCESS
+checkOut: FAILURE
+cleanNextRoom: SUCCESS, 2
+checkOut: FAILURE
+removeTable: FAILURE
+leaveDiningRoom: FAILURE
+enterDiningRoom: FAILURE

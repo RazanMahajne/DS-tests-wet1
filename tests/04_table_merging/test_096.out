@@ -1,0 +1,7 @@
+addTable: SUCCESS
+addTable: SUCCESS
+joinTables: SUCCESS
+removeTable: FAILURE
+addTable: SUCCESS
+removeTable: SUCCESS
+removeTable: SUCCESS

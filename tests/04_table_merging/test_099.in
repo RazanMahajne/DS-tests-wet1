@@ -1,0 +1,8 @@
+checkIn 1 1
+checkIn 2 2
+addTable 10 1
+addTable 20 1
+enterDiningRoom 1 20
+joinFriend 2 1
+joinTables 10 20
+joinFriend 2 1

@@ -1,0 +1,40 @@
+checkOut: FAILURE
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 20
+cleanNextRoom: SUCCESS, 20
+checkOut: FAILURE
+cleanNextRoom: SUCCESS, 20
+checkIn: SUCCESS
+checkOut: FAILURE
+checkOut: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 5
+cleanNextRoom: SUCCESS, 20
+checkOut: FAILURE
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 1
+checkIn: FAILURE
+checkIn: SUCCESS
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 5
+cleanNextRoom: SUCCESS, 6
+cleanNextRoom: SUCCESS, 16
+cleanNextRoom: SUCCESS, 20
+cleanNextRoom: SUCCESS, 1
+checkOut: SUCCESS
+cleanNextRoom: SUCCESS, 6
+checkOut: FAILURE
+checkOut: FAILURE
+checkOut: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 16
+cleanNextRoom: SUCCESS, 20
+checkOut: SUCCESS
+checkIn: SUCCESS
+checkOut: FAILURE
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: FAILURE
+checkIn: FAILURE
+checkIn: SUCCESS

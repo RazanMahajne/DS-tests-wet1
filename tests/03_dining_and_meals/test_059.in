@@ -1,0 +1,10 @@
+checkIn 1 1
+addTable 1 2
+enterDiningRoom 1 1
+reheatFood
+reheatFood
+reheatFood
+leaveDiningRoom 1 1
+enterDiningRoom 1 1
+reheatFood
+enterDiningRoom 1 1

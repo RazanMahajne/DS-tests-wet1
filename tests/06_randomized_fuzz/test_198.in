@@ -1,0 +1,305 @@
+cleanNextRoom
+removeTable 12
+enterDiningRoom 439 72
+checkIn 458 24
+removeTable 14
+enterDiningRoom 199 15
+leaveDiningRoom 448 47
+removeTable 7
+checkIn 10 171
+removeTable 58
+checkOut 327
+checkIn 397 117
+enterDiningRoom 74 11
+checkIn 197 173
+cleanNextRoom
+joinFriend 137 145
+cleanNextRoom
+checkIn 58 251
+checkOut 384
+leaveDiningRoom 394 37
+joinFriend 221 123
+cleanNextRoom
+leaveDiningRoom 56 3
+checkIn 47 75
+addTable 15 5
+enterDiningRoom 65 35
+checkIn 313 381
+addTable 17 1
+checkIn 256 148
+joinFriend 226 108
+enterDiningRoom 383 72
+addTable 50 2
+cleanNextRoom
+addTable 78 3
+enterDiningRoom 463 84
+addTable 95 3
+checkIn 163 336
+joinFriend 277 254
+removeTable 49
+joinFriend 246 315
+checkIn 34 113
+enterDiningRoom 73 51
+checkIn 244 193
+addTable 96 6
+checkIn 240 208
+addTable 38 4
+addTable 0 3
+checkIn 106 74
+reheatFood
+leaveDiningRoom 434 4
+checkOut 296
+addTable 60 0
+checkIn 107 1
+joinFriend 167 278
+checkOut 470
+addTable 24 3
+joinFriend 39 23
+removeTable 0
+joinTables 25 97
+checkIn 477 357
+removeTable 99
+addTable 61 4
+leaveDiningRoom 92 24
+checkOut 314
+addTable 2 4
+enterDiningRoom 367 60
+checkOut 481
+enterDiningRoom 134 58
+addTable 22 2
+leaveDiningRoom 287 46
+removeTable 47
+checkIn 408 415
+cleanNextRoom
+checkIn 162 160
+checkOut 344
+leaveDiningRoom 384 97
+cleanNextRoom
+addTable 44 2
+addTable 93 4
+checkOut 391
+checkIn 18 131
+checkIn 47 364
+joinTables 96 2
+joinFriend 459 354
+joinTables 67 60
+checkIn 201 482
+checkOut 255
+reheatFood
+joinTables 48 91
+cleanNextRoom
+addTable 65 6
+checkIn 48 281
+addTable 54 1
+joinFriend 262 364
+enterDiningRoom 28 87
+reheatFood
+cleanNextRoom
+addTable 99 4
+removeTable 74
+addTable 46 5
+reheatFood
+checkOut 186
+addTable 41 6
+leaveDiningRoom 21 92
+checkOut 150
+joinFriend 22 268
+cleanNextRoom
+addTable 46 6
+addTable 29 3
+removeTable 63
+addTable 36 5
+checkIn 110 464
+leaveDiningRoom 141 19
+checkIn 249 26
+leaveDiningRoom 176 97
+checkIn 190 142
+enterDiningRoom 400 88
+checkIn 462 275
+checkIn 262 53
+joinFriend 396 236
+joinTables 69 30
+checkIn 64 363
+removeTable 66
+checkIn 44 84
+reheatFood
+addTable 70 0
+enterDiningRoom 238 53
+removeTable 84
+enterDiningRoom 481 66
+checkOut 387
+cleanNextRoom
+addTable 97 0
+addTable 52 0
+cleanNextRoom
+leaveDiningRoom 163 27
+checkIn 445 251
+addTable 52 4
+checkIn 489 202
+leaveDiningRoom 480 89
+joinTables 31 69
+checkOut 261
+joinTables 18 28
+addTable 6 2
+leaveDiningRoom 374 78
+checkIn 196 69
+checkIn 81 255
+enterDiningRoom 378 37
+addTable 90 5
+cleanNextRoom
+enterDiningRoom 110 94
+joinFriend 20 245
+leaveDiningRoom 97 9
+checkIn 94 493
+enterDiningRoom 359 39
+checkIn 198 215
+checkOut 272
+leaveDiningRoom 255 33
+joinFriend 105 447
+addTable 84 6
+leaveDiningRoom 497 78
+joinFriend 496 412
+enterDiningRoom 363 16
+joinTables 55 33
+removeTable 25
+cleanNextRoom
+cleanNextRoom
+leaveDiningRoom 213 46
+joinFriend 340 489
+addTable 15 4
+cleanNextRoom
+joinTables 55 40
+checkIn 239 393
+enterDiningRoom 477 38
+leaveDiningRoom 243 100
+leaveDiningRoom 105 84
+enterDiningRoom 303 3
+joinFriend 414 276
+joinFriend 318 375
+addTable 60 0
+joinFriend 7 100
+checkOut 166
+checkIn 49 452
+joinFriend 143 314
+checkOut 137
+enterDiningRoom 248 89
+checkIn 178 110
+checkIn 252 90
+joinFriend 43 381
+joinTables 98 76
+checkIn 118 47
+enterDiningRoom 288 55
+reheatFood
+enterDiningRoom 296 47
+addTable 82 3
+checkOut 74
+checkOut 31
+joinTables 70 83
+checkOut 439
+addTable 51 0
+reheatFood
+reheatFood
+checkIn 139 145
+enterDiningRoom 328 8
+enterDiningRoom 319 68
+leaveDiningRoom 430 48
+checkIn 429 60
+cleanNextRoom
+checkOut 318
+leaveDiningRoom 238 93
+enterDiningRoom 86 65
+reheatFood
+checkIn 67 242
+joinTables 73 61
+checkIn 467 173
+joinTables 72 29
+checkOut 204
+addTable 56 0
+cleanNextRoom
+checkOut 404
+reheatFood
+checkOut 71
+addTable 34 0
+checkOut 341
+checkIn 195 82
+enterDiningRoom 361 21
+joinFriend 298 400
+checkIn 13 191
+enterDiningRoom 123 11
+removeTable 1
+leaveDiningRoom 451 81
+enterDiningRoom 263 82
+addTable 33 4
+joinTables 9 45
+addTable 38 6
+enterDiningRoom 227 97
+reheatFood
+enterDiningRoom 400 38
+leaveDiningRoom 217 88
+enterDiningRoom 113 40
+enterDiningRoom 454 48
+checkIn 470 331
+leaveDiningRoom 299 90
+joinTables 10 2
+checkIn 279 100
+addTable 80 3
+removeTable 23
+reheatFood
+cleanNextRoom
+checkOut 289
+checkIn 284 304
+joinTables 52 66
+checkIn 293 52
+addTable 39 1
+checkIn 184 157
+removeTable 22
+enterDiningRoom 456 35
+reheatFood
+checkOut 482
+checkOut 51
+checkIn 251 195
+cleanNextRoom
+enterDiningRoom 103 86
+joinFriend 84 74
+addTable 26 5
+checkIn 118 20
+enterDiningRoom 395 57
+checkOut 436
+checkIn 125 405
+reheatFood
+enterDiningRoom 151 8
+leaveDiningRoom 352 1
+checkIn 412 94
+joinFriend 378 248
+checkIn 391 492
+checkOut 324
+joinFriend 486 473
+checkIn 382 406
+checkIn 54 353
+checkIn 284 59
+addTable 77 1
+checkOut 388
+addTable 78 4
+joinTables 13 16
+checkIn 34 57
+checkIn 304 132
+addTable 10 2
+cleanNextRoom
+joinFriend 17 354
+addTable 20 1
+checkIn 342 498
+joinFriend 368 126
+addTable 83 1
+removeTable 99
+checkOut 43
+removeTable 37
+removeTable 86
+reheatFood
+checkIn 159 398
+checkIn 277 294
+joinFriend 40 239
+enterDiningRoom 196 13
+checkOut 360
+reheatFood
+leaveDiningRoom 306 76
+addTable 40 5

@@ -1,0 +1,11 @@
+addTable 7 4
+checkIn 1 1
+checkIn 2 2
+checkIn 3 3
+checkIn 4 4
+checkIn 5 5
+enterDiningRoom 1 7
+joinFriend 2 1
+joinFriend 3 2
+joinFriend 4 3
+joinFriend 5 4

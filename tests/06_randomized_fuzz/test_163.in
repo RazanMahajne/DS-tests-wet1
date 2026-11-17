@@ -1,0 +1,130 @@
+joinTables 0 7
+leaveDiningRoom -1 4
+addTable 4 6
+joinFriend 1 4
+joinTables 1 1
+joinFriend 15 5
+enterDiningRoom 8 6
+leaveDiningRoom 10 1
+checkIn 5 2
+cleanNextRoom
+enterDiningRoom 9 -1
+cleanNextRoom
+enterDiningRoom 1 1
+checkIn 6 6
+addTable 0 2
+cleanNextRoom
+checkOut 10
+checkIn 6 11
+enterDiningRoom 15 2
+checkOut 1
+enterDiningRoom 8 4
+joinFriend 11 4
+enterDiningRoom 2 8
+leaveDiningRoom 12 6
+addTable 2 0
+cleanNextRoom
+enterDiningRoom 2 8
+removeTable 5
+cleanNextRoom
+removeTable 4
+joinTables 5 1
+cleanNextRoom
+reheatFood
+addTable 7 2
+addTable -1 3
+joinTables 6 -1
+checkIn 10 3
+checkIn 5 14
+checkOut 12
+checkIn 1 10
+joinFriend 3 8
+joinTables 8 -1
+enterDiningRoom 6 2
+leaveDiningRoom -1 8
+cleanNextRoom
+removeTable 3
+checkIn 13 6
+checkOut 8
+checkOut 10
+cleanNextRoom
+leaveDiningRoom 11 -1
+joinFriend 2 1
+cleanNextRoom
+joinTables 7 2
+joinTables 6 0
+joinFriend 12 14
+cleanNextRoom
+joinTables 3 -1
+joinTables 1 7
+leaveDiningRoom 10 6
+addTable -1 3
+checkIn 5 4
+addTable 0 0
+enterDiningRoom 14 3
+joinFriend -1 12
+checkIn 13 15
+joinFriend 5 8
+addTable 1 6
+checkIn 15 5
+enterDiningRoom 11 -1
+leaveDiningRoom 4 1
+checkOut 2
+enterDiningRoom 11 4
+addTable 5 1
+joinFriend 5 11
+enterDiningRoom 1 3
+checkOut 12
+checkIn 13 1
+cleanNextRoom
+joinFriend -1 7
+addTable -1 5
+removeTable -1
+enterDiningRoom 1 7
+cleanNextRoom
+reheatFood
+leaveDiningRoom 7 0
+addTable 6 1
+enterDiningRoom 14 4
+reheatFood
+enterDiningRoom 6 6
+addTable 2 4
+leaveDiningRoom 13 4
+addTable -1 3
+enterDiningRoom 5 4
+cleanNextRoom
+joinFriend 1 7
+checkOut 4
+addTable 5 6
+joinTables 5 5
+joinFriend 7 -1
+leaveDiningRoom 14 1
+checkOut 13
+joinFriend 14 -1
+leaveDiningRoom 12 4
+joinFriend -1 8
+enterDiningRoom 15 1
+addTable 0 6
+checkIn 4 14
+checkIn 5 1
+joinTables 7 1
+cleanNextRoom
+checkOut 4
+leaveDiningRoom 10 8
+enterDiningRoom 12 -1
+addTable -1 1
+checkOut 7
+checkOut 1
+enterDiningRoom -1 7
+enterDiningRoom 4 3
+leaveDiningRoom 13 0
+leaveDiningRoom 4 4
+checkOut 6
+checkOut 13
+addTable 3 2
+checkOut 8
+cleanNextRoom
+checkOut 11
+removeTable 8
+leaveDiningRoom 6 5
+enterDiningRoom 4 6

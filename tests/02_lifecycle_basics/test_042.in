@@ -1,0 +1,30 @@
+checkIn 10 10
+checkIn 30 30
+checkIn 20 20
+checkIn 5 5
+checkIn 15 15
+checkIn 25 25
+checkIn 35 35
+checkIn 1 1
+checkIn 7 7
+checkIn 12 12
+checkIn 18 18
+checkIn 22 22
+checkIn 27 27
+checkIn 32 32
+checkIn 40 40
+checkOut 20
+checkOut 10
+checkOut 30
+checkOut 15
+checkOut 25
+checkOut 5
+checkOut 35
+checkOut 1
+checkOut 40
+checkOut 12
+checkOut 27
+checkOut 7
+checkOut 32
+checkOut 18
+checkOut 22

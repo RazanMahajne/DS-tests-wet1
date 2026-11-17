@@ -1,0 +1,8 @@
+checkIn 7 7
+addTable 7 7
+enterDiningRoom 7 7
+removeTable 7
+checkOut 7
+leaveDiningRoom 7 7
+removeTable 7
+checkOut 7

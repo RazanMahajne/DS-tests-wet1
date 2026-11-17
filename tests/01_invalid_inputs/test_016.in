@@ -1,0 +1,8 @@
+addTable 5 2
+joinTables 0 5
+joinTables 5 0
+joinTables -1 5
+joinTables 5 -1
+joinTables 5 5
+joinTables 0 0
+joinTables -3 -3

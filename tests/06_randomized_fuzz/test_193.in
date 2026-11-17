@@ -1,0 +1,280 @@
+cleanNextRoom
+addTable 7 0
+joinFriend 10 2
+checkIn 13 2
+cleanNextRoom
+enterDiningRoom 7 0
+reheatFood
+joinTables 3 0
+checkOut 0
+joinFriend 15 3
+joinFriend 10 0
+joinTables 4 7
+checkOut 6
+removeTable 8
+addTable 3 4
+checkOut 15
+reheatFood
+reheatFood
+addTable 0 5
+checkIn 6 10
+addTable 3 5
+joinTables -1 8
+checkIn 2 8
+enterDiningRoom 0 2
+cleanNextRoom
+enterDiningRoom 10 2
+enterDiningRoom 8 -1
+joinTables 8 7
+checkIn 9 13
+leaveDiningRoom 10 3
+checkIn -1 8
+checkOut 2
+reheatFood
+joinTables 0 0
+joinFriend 5 6
+checkIn 9 0
+reheatFood
+cleanNextRoom
+reheatFood
+addTable 3 3
+joinTables 5 7
+leaveDiningRoom 3 6
+checkOut 3
+addTable 6 4
+checkOut 4
+leaveDiningRoom 9 2
+addTable -1 3
+checkIn 9 5
+cleanNextRoom
+joinTables 4 -1
+joinTables 0 0
+addTable 6 1
+enterDiningRoom 9 7
+enterDiningRoom 9 1
+leaveDiningRoom 0 8
+leaveDiningRoom 14 -1
+addTable 2 5
+addTable 3 5
+checkIn -1 8
+checkIn 10 13
+joinTables 0 0
+addTable 5 4
+leaveDiningRoom 15 8
+checkIn 3 5
+addTable 7 3
+checkIn 11 1
+checkIn 1 8
+addTable 0 3
+joinTables 0 5
+joinFriend 8 8
+leaveDiningRoom 0 3
+addTable 0 4
+enterDiningRoom 13 5
+joinFriend 6 10
+reheatFood
+cleanNextRoom
+checkIn 6 9
+checkIn 8 8
+checkIn 3 14
+removeTable 6
+enterDiningRoom 12 4
+leaveDiningRoom 8 -1
+checkIn 7 11
+reheatFood
+joinFriend 6 15
+checkIn 7 14
+joinTables 7 2
+joinFriend 15 8
+leaveDiningRoom 6 8
+checkOut 2
+joinFriend 1 12
+removeTable 6
+checkOut 9
+enterDiningRoom 9 6
+leaveDiningRoom 11 1
+checkOut 0
+removeTable 0
+cleanNextRoom
+addTable 6 1
+checkIn 11 14
+enterDiningRoom 1 4
+checkOut 1
+joinFriend 5 7
+leaveDiningRoom 14 1
+checkIn -1 4
+enterDiningRoom 6 6
+addTable 8 6
+joinTables 4 6
+checkOut 0
+cleanNextRoom
+checkOut 15
+enterDiningRoom 3 7
+checkIn -1 2
+checkOut 14
+checkIn -1 12
+enterDiningRoom 9 5
+addTable 6 3
+joinTables 3 3
+enterDiningRoom 1 5
+enterDiningRoom 8 4
+removeTable 2
+joinFriend 5 2
+addTable 5 3
+cleanNextRoom
+joinFriend 13 9
+leaveDiningRoom 4 7
+joinFriend 8 12
+joinFriend 7 8
+enterDiningRoom 0 5
+joinFriend 3 1
+enterDiningRoom 15 0
+joinFriend 10 13
+checkOut 15
+joinFriend 14 -1
+joinFriend 12 2
+checkOut 5
+checkOut 1
+checkIn 3 15
+checkOut 6
+enterDiningRoom 11 2
+checkOut 15
+reheatFood
+removeTable 2
+leaveDiningRoom 4 7
+leaveDiningRoom 4 0
+removeTable 6
+enterDiningRoom 6 2
+enterDiningRoom 0 4
+joinFriend 1 -1
+joinTables 6 3
+leaveDiningRoom 10 -1
+joinFriend 3 3
+cleanNextRoom
+addTable 7 1
+joinTables 6 -1
+enterDiningRoom 1 4
+leaveDiningRoom 8 4
+cleanNextRoom
+joinTables 0 4
+checkOut -1
+cleanNextRoom
+joinTables 5 -1
+cleanNextRoom
+enterDiningRoom 11 -1
+checkIn 10 2
+checkOut 5
+enterDiningRoom 15 1
+enterDiningRoom 14 7
+joinFriend 15 8
+enterDiningRoom 14 1
+removeTable 7
+cleanNextRoom
+reheatFood
+checkOut 6
+checkIn 12 3
+leaveDiningRoom 14 7
+enterDiningRoom 9 0
+addTable 4 0
+cleanNextRoom
+joinTables 5 2
+checkOut 13
+checkOut 9
+checkOut 1
+enterDiningRoom 10 0
+joinTables 6 -1
+enterDiningRoom 3 -1
+leaveDiningRoom 12 6
+enterDiningRoom 13 7
+addTable 6 3
+reheatFood
+joinTables 4 3
+addTable 5 6
+enterDiningRoom 15 -1
+checkIn 7 12
+joinTables 6 8
+enterDiningRoom 8 6
+joinTables 0 8
+removeTable 5
+joinFriend 2 4
+enterDiningRoom 12 4
+checkOut 11
+leaveDiningRoom 7 5
+joinFriend 7 10
+joinTables 4 7
+joinTables 1 8
+leaveDiningRoom 14 0
+enterDiningRoom 6 1
+enterDiningRoom 4 1
+enterDiningRoom 6 7
+checkOut 5
+joinFriend 1 10
+cleanNextRoom
+checkIn 1 14
+enterDiningRoom 14 8
+checkOut 11
+enterDiningRoom 13 8
+enterDiningRoom 5 3
+removeTable 7
+joinTables 3 4
+reheatFood
+addTable 4 4
+enterDiningRoom 14 2
+leaveDiningRoom 5 4
+leaveDiningRoom 10 4
+checkIn 6 10
+joinFriend 1 10
+checkOut 9
+cleanNextRoom
+enterDiningRoom 7 4
+checkIn 10 0
+cleanNextRoom
+joinTables 0 8
+joinTables 5 -1
+enterDiningRoom 14 4
+cleanNextRoom
+joinFriend 15 0
+checkOut 6
+checkIn 3 14
+leaveDiningRoom 10 -1
+checkIn 6 14
+checkIn 10 11
+leaveDiningRoom 13 -1
+removeTable 5
+joinTables 0 2
+reheatFood
+joinTables 6 1
+enterDiningRoom 8 6
+checkIn 9 3
+reheatFood
+removeTable 0
+checkIn 13 12
+enterDiningRoom 4 8
+leaveDiningRoom 13 3
+enterDiningRoom 15 6
+checkOut 10
+joinTables 3 5
+joinTables 6 4
+enterDiningRoom 4 -1
+joinTables -1 7
+checkOut 11
+checkIn 4 7
+reheatFood
+cleanNextRoom
+enterDiningRoom 6 8
+checkIn 9 -1
+checkOut 6
+cleanNextRoom
+checkIn 4 -1
+checkIn 2 6
+reheatFood
+enterDiningRoom 5 5
+enterDiningRoom 11 1
+addTable 0 4
+enterDiningRoom 13 1
+checkIn 1 5
+checkIn 12 3
+checkIn 15 15
+leaveDiningRoom 15 6
+enterDiningRoom 10 1
+addTable 5 4

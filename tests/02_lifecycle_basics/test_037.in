@@ -1,0 +1,6 @@
+checkIn 1 10
+addTable 1 1
+enterDiningRoom 1 1
+checkOut 1
+leaveDiningRoom 1 1
+checkOut 1

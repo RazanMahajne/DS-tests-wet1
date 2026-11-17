@@ -1,0 +1,6 @@
+checkIn: SUCCESS
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 10
+checkOut: SUCCESS
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 20

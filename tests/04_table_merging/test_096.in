@@ -1,0 +1,7 @@
+addTable 1 2
+addTable 2 3
+joinTables 1 2
+removeTable 2
+addTable 2 1
+removeTable 1
+removeTable 2

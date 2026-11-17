@@ -1,0 +1,5 @@
+addTable 10 5
+addTable 10 10
+addTable 10 5
+removeTable 10
+addTable 10 10

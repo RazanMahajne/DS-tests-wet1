@@ -1,0 +1,14 @@
+checkIn 1 1
+checkIn 2 2
+checkIn 3 3
+addTable 10 3
+enterDiningRoom 1 10
+enterDiningRoom 2 10
+enterDiningRoom 3 10
+removeTable 10
+leaveDiningRoom 1 10
+removeTable 10
+leaveDiningRoom 2 10
+removeTable 10
+leaveDiningRoom 3 10
+removeTable 10

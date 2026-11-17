@@ -1,0 +1,3 @@
+checkOut 0
+checkOut -1
+checkOut -100000

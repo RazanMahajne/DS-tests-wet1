@@ -1,0 +1,40 @@
+checkOut 14
+checkIn 1 20
+cleanNextRoom
+cleanNextRoom
+checkOut 2
+cleanNextRoom
+checkIn 5 5
+checkOut 4
+checkOut 12
+checkIn 6 20
+cleanNextRoom
+cleanNextRoom
+checkOut 14
+checkIn 9 1
+cleanNextRoom
+checkIn 1 2
+checkIn 8 16
+checkIn 6 6
+cleanNextRoom
+cleanNextRoom
+cleanNextRoom
+cleanNextRoom
+cleanNextRoom
+checkOut 5
+cleanNextRoom
+checkOut 11
+checkOut 12
+checkOut 14
+checkIn 9 18
+cleanNextRoom
+cleanNextRoom
+checkOut 8
+checkIn 3 3
+checkOut 5
+checkIn 13 17
+checkIn 8 2
+checkIn 14 14
+checkIn 1 13
+checkIn 9 18
+checkIn 11 7

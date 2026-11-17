@@ -1,0 +1,5 @@
+checkIn 1 10
+checkIn 1 0
+checkIn 0 10
+checkIn 1 -5
+checkIn -5 10

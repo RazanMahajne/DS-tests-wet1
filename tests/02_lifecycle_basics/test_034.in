@@ -1,0 +1,5 @@
+removeTable 1
+addTable 2 3
+removeTable 1
+removeTable 2
+removeTable 2

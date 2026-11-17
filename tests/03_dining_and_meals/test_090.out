@@ -1,0 +1,37 @@
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+enterDiningRoom: SUCCESS
+enterDiningRoom: SUCCESS
+enterDiningRoom: SUCCESS
+joinFriend: FAILURE
+leaveDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+enterDiningRoom: SUCCESS
+enterDiningRoom: SUCCESS
+joinFriend: INVALID_INPUT
+leaveDiningRoom: SUCCESS
+enterDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+joinFriend: FAILURE
+leaveDiningRoom: SUCCESS
+reheatFood: SUCCESS
+enterDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+joinFriend: SUCCESS, 10
+leaveDiningRoom: SUCCESS
+enterDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+joinFriend: SUCCESS, 11
+leaveDiningRoom: SUCCESS

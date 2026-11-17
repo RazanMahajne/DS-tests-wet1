@@ -1,0 +1,3 @@
+checkIn 0 1
+checkIn -1 1
+checkIn -999999 50

@@ -1,0 +1,12 @@
+build/
+*.o
+*.out_bin
+resort_test_bin
+
+solution/
+*.cpp
+*.h
+!scripts/*.py
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+checkIn 1 10
+checkIn 2 20
+checkOut 1
+checkIn 3 10
+checkOut 2
+checkIn 4 20
+checkOut 3
+checkOut 4

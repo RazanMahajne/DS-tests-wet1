@@ -1,0 +1,250 @@
+addTable 2 0
+joinTables -1 6
+enterDiningRoom 0 1
+checkIn 11 7
+checkOut 11
+addTable 6 6
+cleanNextRoom
+cleanNextRoom
+leaveDiningRoom 0 2
+enterDiningRoom 11 7
+removeTable 4
+joinFriend -1 7
+joinFriend 3 -1
+addTable 0 4
+checkIn -1 1
+joinFriend 9 10
+checkOut 5
+leaveDiningRoom 6 6
+reheatFood
+enterDiningRoom 4 7
+enterDiningRoom 1 7
+checkIn 14 9
+removeTable -1
+addTable 8 4
+leaveDiningRoom 15 4
+leaveDiningRoom 8 2
+checkOut 3
+checkOut 12
+checkIn 9 4
+enterDiningRoom 7 3
+leaveDiningRoom 11 3
+addTable 3 5
+addTable 3 2
+checkOut 2
+addTable -1 3
+checkIn -1 9
+leaveDiningRoom 3 1
+enterDiningRoom 14 7
+checkOut 15
+joinTables 7 1
+checkIn 8 6
+checkOut -1
+checkIn 2 15
+enterDiningRoom 15 8
+joinFriend 12 7
+checkIn 15 6
+enterDiningRoom -1 2
+leaveDiningRoom 13 7
+addTable 6 2
+joinFriend -1 6
+checkIn 9 12
+cleanNextRoom
+leaveDiningRoom 11 4
+cleanNextRoom
+leaveDiningRoom 6 0
+removeTable 7
+addTable 5 1
+enterDiningRoom 4 5
+joinFriend 0 3
+enterDiningRoom 5 7
+joinFriend 0 6
+checkIn 2 1
+cleanNextRoom
+enterDiningRoom 5 7
+removeTable 5
+enterDiningRoom 5 4
+enterDiningRoom 0 6
+joinTables 3 2
+addTable 3 2
+enterDiningRoom 8 8
+checkOut 10
+checkIn 15 -1
+joinTables 3 0
+checkOut 8
+checkIn 5 5
+checkIn 12 4
+cleanNextRoom
+reheatFood
+reheatFood
+joinFriend 4 11
+enterDiningRoom 0 3
+joinTables 2 5
+joinTables 5 3
+joinFriend 9 15
+leaveDiningRoom 15 4
+checkIn 5 11
+enterDiningRoom 9 1
+enterDiningRoom 13 2
+checkOut 10
+removeTable 2
+addTable 0 0
+reheatFood
+enterDiningRoom 3 0
+checkOut 10
+enterDiningRoom 12 2
+leaveDiningRoom 3 3
+addTable 4 1
+checkIn 5 11
+checkIn 10 8
+checkOut 3
+checkOut 4
+leaveDiningRoom 5 5
+addTable 1 3
+joinTables 4 5
+joinTables 7 -1
+cleanNextRoom
+enterDiningRoom 6 4
+leaveDiningRoom 14 5
+addTable 4 4
+joinTables 0 0
+enterDiningRoom 3 0
+enterDiningRoom 9 -1
+enterDiningRoom 8 5
+joinTables 6 4
+leaveDiningRoom 7 1
+joinFriend 8 10
+joinTables 7 4
+leaveDiningRoom 3 3
+checkIn 15 3
+joinFriend 7 3
+enterDiningRoom 5 6
+removeTable 6
+reheatFood
+checkIn 2 5
+checkIn 1 -1
+joinTables 7 4
+addTable 5 2
+addTable 3 3
+checkIn 15 14
+removeTable 8
+checkOut 0
+joinTables 8 1
+checkOut 5
+enterDiningRoom 8 6
+checkIn 13 8
+enterDiningRoom 7 0
+enterDiningRoom 5 7
+enterDiningRoom 4 2
+joinTables 2 3
+leaveDiningRoom 4 -1
+joinFriend 2 7
+cleanNextRoom
+joinFriend 8 10
+joinFriend 3 10
+checkIn 7 11
+enterDiningRoom 13 2
+leaveDiningRoom 15 3
+leaveDiningRoom 10 6
+addTable 3 5
+enterDiningRoom 8 2
+joinTables 5 6
+addTable -1 0
+checkIn 3 15
+checkOut 10
+removeTable 5
+checkIn 0 15
+joinFriend -1 5
+checkIn 11 10
+enterDiningRoom 2 4
+joinFriend 12 3
+cleanNextRoom
+checkOut 12
+leaveDiningRoom 11 -1
+leaveDiningRoom 15 7
+checkIn 0 8
+checkIn 15 12
+checkOut 9
+addTable 4 4
+checkIn 13 11
+enterDiningRoom 5 -1
+checkIn -1 9
+checkIn 13 11
+enterDiningRoom 7 4
+checkIn 7 0
+checkIn 3 8
+checkIn -1 1
+checkOut 7
+enterDiningRoom 13 1
+removeTable 1
+removeTable 2
+joinFriend -1 5
+joinFriend 3 7
+checkIn 13 7
+reheatFood
+enterDiningRoom 3 1
+enterDiningRoom 12 8
+enterDiningRoom 7 8
+checkIn -1 1
+enterDiningRoom 1 4
+addTable 4 0
+checkOut 5
+checkIn 11 4
+cleanNextRoom
+enterDiningRoom 10 7
+checkOut 11
+checkOut 15
+enterDiningRoom 0 2
+checkIn 5 3
+joinTables 4 4
+enterDiningRoom -1 8
+addTable -1 1
+checkIn 14 7
+checkIn 2 2
+addTable 5 2
+addTable 7 5
+checkOut 14
+joinTables 5 1
+checkIn 12 -1
+addTable 7 4
+addTable 4 2
+joinFriend 12 8
+enterDiningRoom 11 6
+checkOut 6
+checkIn 15 12
+enterDiningRoom 7 0
+joinFriend 10 3
+joinTables 0 5
+checkOut 5
+addTable 3 3
+removeTable 7
+joinFriend 10 12
+enterDiningRoom 7 5
+enterDiningRoom 8 5
+joinTables 5 3
+cleanNextRoom
+checkIn 14 13
+reheatFood
+joinFriend 11 9
+checkIn 15 -1
+checkIn 8 3
+checkIn 8 2
+enterDiningRoom 11 3
+joinFriend 12 1
+checkOut 2
+addTable 3 3
+joinTables -1 6
+enterDiningRoom 5 8
+removeTable 2
+cleanNextRoom
+enterDiningRoom 12 1
+checkIn 6 11
+checkOut 5
+checkIn 1 10
+checkIn 14 14
+leaveDiningRoom -1 3
+enterDiningRoom 9 5
+reheatFood
+checkIn 5 4
+cleanNextRoom
+addTable 2 5

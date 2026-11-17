@@ -1,0 +1,4 @@
+addTable 0 0
+addTable -1 -1
+addTable 0 -5
+addTable -5 0

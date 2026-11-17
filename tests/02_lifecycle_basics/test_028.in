@@ -1,0 +1,4 @@
+checkIn 1 10
+checkIn 1 20
+checkOut 1
+checkIn 1 20

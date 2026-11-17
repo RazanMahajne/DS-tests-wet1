@@ -1,0 +1,7 @@
+checkIn: SUCCESS
+addTable: SUCCESS
+checkOut: SUCCESS
+enterDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+cleanNextRoom: FAILURE
+removeTable: SUCCESS

@@ -1,0 +1,50 @@
+addTable 1 1
+addTable 2 2
+addTable 3 3
+addTable 4 4
+addTable 5 5
+addTable 6 6
+addTable 7 7
+addTable 8 8
+addTable 9 9
+addTable 10 10
+addTable 11 11
+addTable 12 12
+addTable 13 13
+addTable 14 14
+addTable 15 15
+addTable 16 16
+addTable 17 17
+addTable 18 18
+addTable 19 19
+addTable 20 20
+addTable 21 21
+addTable 22 22
+addTable 23 23
+addTable 24 24
+addTable 25 25
+removeTable 25
+removeTable 24
+removeTable 23
+removeTable 22
+removeTable 21
+removeTable 20
+removeTable 19
+removeTable 18
+removeTable 17
+removeTable 16
+removeTable 15
+removeTable 14
+removeTable 13
+removeTable 12
+removeTable 11
+removeTable 10
+removeTable 9
+removeTable 8
+removeTable 7
+removeTable 6
+removeTable 5
+removeTable 4
+removeTable 3
+removeTable 2
+removeTable 1

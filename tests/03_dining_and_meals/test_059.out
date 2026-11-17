@@ -1,0 +1,10 @@
+checkIn: SUCCESS
+addTable: SUCCESS
+enterDiningRoom: SUCCESS
+reheatFood: SUCCESS
+reheatFood: SUCCESS
+reheatFood: SUCCESS
+leaveDiningRoom: SUCCESS
+enterDiningRoom: FAILURE
+reheatFood: SUCCESS
+enterDiningRoom: SUCCESS

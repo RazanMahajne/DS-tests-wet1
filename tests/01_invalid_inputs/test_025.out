@@ -1,0 +1,7 @@
+checkIn: SUCCESS
+addTable: SUCCESS
+enterDiningRoom: SUCCESS
+cleanNextRoom: SUCCESS, 2147483647
+leaveDiningRoom: SUCCESS
+checkOut: SUCCESS
+removeTable: SUCCESS
