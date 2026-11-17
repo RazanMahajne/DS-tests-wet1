@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generates 220 categorized test cases (.in / .out) covering:
+Generates categorized test cases (.in / .out) covering:
   01_invalid_inputs        (001-025): Input validation & precedence over FAILURE
   02_lifecycle_basics      (026-055): Check-in/out, room collisions, AVL rotations
   03_dining_and_meals      (056-095): Meal stamps, reheatFood(), joinFriend() edge cases
@@ -8,6 +8,8 @@ Generates 220 categorized test cases (.in / .out) covering:
   05_housekeeping_rotation (131-160): cleanNextRoom() wrap-around & deleted-room bugs
   06_randomized_fuzz       (161-200): Seeded differential fuzzing across dense/sparse IDs
   07_stress_complexity     (201-220): O(log n), O(log m), O(1) asymptotic stress tests
+  08_comprehensive_system  (221-235): Full end-to-end multi-step system workflows
+  09_mega_simulation       (236-240): Massive long-running tests with 600+ commands each
 """
 
 import os
@@ -338,7 +340,84 @@ def generate_all() -> None:
         write_test("07_stress_complexity", tid, cmds)
         tid += 1
 
-    print(f"Successfully generated {tid - 1} tests across 7 categories in '{TESTS_DIR}'.")
+    # 8. 08_comprehensive_system (Full end-to-end multi-step system workflows)
+    for k in range(15):
+        rng = random.Random(8000 + k)
+        cmds = []
+        for i in range(1, 21):
+            cmds.append(f"checkIn {i} {i * 10}")
+        for t in range(1, 11):
+            cmds.append(f"addTable {t} 5")
+
+        for _ in range(150):
+            op = rng.choice([
+                "enterDiningRoom", "leaveDiningRoom", "joinFriend", 
+                "joinTables", "reheatFood", "cleanNextRoom", "checkOut", "checkIn"
+            ])
+            g1, g2 = rng.randint(1, 30), rng.randint(1, 30)
+            t1, t2 = rng.randint(1, 15), rng.randint(1, 15)
+            
+            if op == "enterDiningRoom":
+                cmds.append(f"enterDiningRoom {g1} {t1}")
+            elif op == "leaveDiningRoom":
+                cmds.append(f"leaveDiningRoom {g1} {t1}")
+            elif op == "joinFriend":
+                cmds.append(f"joinFriend {g1} {g2}")
+            elif op == "joinTables":
+                cmds.append(f"joinTables {t1} {t2}")
+            elif op == "reheatFood":
+                cmds.append("reheatFood")
+            elif op == "cleanNextRoom":
+                cmds.append("cleanNextRoom")
+            elif op == "checkOut":
+                cmds.append(f"checkOut {g1}")
+            elif op == "checkIn":
+                cmds.append(f"checkIn {g1} {g1 * 100}")
+
+        write_test("08_comprehensive_system", tid, cmds)
+        tid += 1
+
+    # 9. 09_mega_simulation (Massive long-running tests with 600+ commands each)
+    for k in range(5):
+        rng = random.Random(9000 + k)
+        cmds = []
+        num_guests, num_tables = 100, 30
+        
+        for i in range(1, num_guests + 1):
+            cmds.append(f"checkIn {i} {i * 10}")
+        for t in range(1, num_tables + 1):
+            cmds.append(f"addTable {t} 4")
+            
+        for _ in range(600):
+            op = rng.choices(
+                ["enter", "leave", "joinF", "joinT", "reheat", "clean", "out", "in"],
+                weights=[25, 15, 10, 5, 5, 10, 15, 15],
+                k=1
+            )[0]
+            g1, g2 = rng.randint(1, num_guests), rng.randint(1, num_guests)
+            t1, t2 = rng.randint(1, num_tables), rng.randint(1, num_tables)
+            
+            if op == "enter":
+                cmds.append(f"enterDiningRoom {g1} {t1}")
+            elif op == "leave":
+                cmds.append(f"leaveDiningRoom {g1} {t1}")
+            elif op == "joinF":
+                cmds.append(f"joinFriend {g1} {g2}")
+            elif op == "joinT":
+                cmds.append(f"joinTables {t1} {t2}")
+            elif op == "reheat":
+                cmds.append("reheatFood")
+            elif op == "clean":
+                cmds.append("cleanNextRoom")
+            elif op == "out":
+                cmds.append(f"checkOut {g1}")
+            elif op == "in":
+                cmds.append(f"checkIn {g1} {g1 * 100 + rng.randint(1, 9999)}")
+
+        write_test("09_mega_simulation", tid, cmds)
+        tid += 1
+
+    print(f"Successfully generated {tid - 1} total tests across 9 categories!")
 
 
 if __name__ == "__main__":

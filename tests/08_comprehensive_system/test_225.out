@@ -1,0 +1,180 @@
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+checkIn: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+addTable: SUCCESS
+checkIn: FAILURE
+leaveDiningRoom: FAILURE
+joinTables: FAILURE
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 10
+enterDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+joinFriend: FAILURE
+reheatFood: SUCCESS
+checkOut: FAILURE
+joinTables: FAILURE
+reheatFood: SUCCESS
+checkIn: FAILURE
+enterDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+checkOut: SUCCESS
+checkIn: SUCCESS
+cleanNextRoom: SUCCESS, 20
+enterDiningRoom: SUCCESS
+joinFriend: FAILURE
+checkOut: SUCCESS
+joinFriend: FAILURE
+leaveDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+checkIn: SUCCESS
+joinFriend: FAILURE
+leaveDiningRoom: FAILURE
+enterDiningRoom: SUCCESS
+cleanNextRoom: SUCCESS, 30
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 40
+checkIn: SUCCESS
+joinFriend: FAILURE
+joinTables: SUCCESS
+cleanNextRoom: SUCCESS, 60
+leaveDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+reheatFood: SUCCESS
+reheatFood: SUCCESS
+cleanNextRoom: SUCCESS, 70
+joinTables: FAILURE
+checkOut: SUCCESS
+enterDiningRoom: SUCCESS
+checkIn: FAILURE
+leaveDiningRoom: FAILURE
+joinFriend: FAILURE
+joinFriend: FAILURE
+cleanNextRoom: SUCCESS, 90
+checkOut: FAILURE
+joinFriend: FAILURE
+leaveDiningRoom: FAILURE
+joinFriend: FAILURE
+reheatFood: SUCCESS
+checkOut: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 100
+reheatFood: SUCCESS
+cleanNextRoom: SUCCESS, 110
+checkIn: FAILURE
+leaveDiningRoom: FAILURE
+joinFriend: FAILURE
+joinFriend: FAILURE
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+checkOut: SUCCESS
+joinFriend: FAILURE
+joinFriend: FAILURE
+checkIn: FAILURE
+reheatFood: SUCCESS
+checkIn: SUCCESS
+checkIn: FAILURE
+joinTables: INVALID_INPUT
+leaveDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+checkIn: FAILURE
+joinFriend: FAILURE
+cleanNextRoom: SUCCESS, 130
+checkOut: FAILURE
+checkOut: SUCCESS
+joinFriend: FAILURE
+joinTables: FAILURE
+joinTables: FAILURE
+checkIn: FAILURE
+enterDiningRoom: FAILURE
+joinTables: FAILURE
+enterDiningRoom: SUCCESS
+leaveDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 140
+checkOut: FAILURE
+enterDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+enterDiningRoom: FAILURE
+joinFriend: FAILURE
+checkIn: FAILURE
+joinTables: FAILURE
+cleanNextRoom: SUCCESS, 150
+checkIn: FAILURE
+enterDiningRoom: SUCCESS
+cleanNextRoom: SUCCESS, 160
+joinFriend: FAILURE
+reheatFood: SUCCESS
+checkIn: SUCCESS
+reheatFood: SUCCESS
+cleanNextRoom: SUCCESS, 170
+checkIn: FAILURE
+checkIn: FAILURE
+checkOut: SUCCESS
+checkIn: FAILURE
+enterDiningRoom: SUCCESS
+checkOut: SUCCESS
+enterDiningRoom: SUCCESS
+leaveDiningRoom: FAILURE
+joinTables: FAILURE
+cleanNextRoom: SUCCESS, 180
+joinFriend: FAILURE
+joinTables: INVALID_INPUT
+joinFriend: FAILURE
+checkOut: FAILURE
+checkOut: FAILURE
+checkIn: FAILURE
+leaveDiningRoom: FAILURE
+reheatFood: SUCCESS
+cleanNextRoom: SUCCESS, 190
+joinFriend: FAILURE
+checkIn: FAILURE
+checkIn: SUCCESS
+enterDiningRoom: FAILURE
+cleanNextRoom: SUCCESS, 200
+checkOut: SUCCESS
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+leaveDiningRoom: FAILURE
+joinFriend: FAILURE
+checkIn: FAILURE
+cleanNextRoom: SUCCESS, 500
+joinTables: FAILURE
+checkIn: FAILURE
+joinTables: FAILURE
+enterDiningRoom: FAILURE
+reheatFood: SUCCESS
+checkIn: FAILURE
+checkIn: FAILURE
+checkIn: FAILURE
+joinFriend: FAILURE
+enterDiningRoom: FAILURE
+joinFriend: FAILURE
